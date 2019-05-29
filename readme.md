@@ -9,28 +9,28 @@
 
 ## Session 1: SOLID and Clean Code
 
-- [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+- [x ] [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
-  - [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
-  - [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
-  - [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
-  - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-- Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
-  - find SOLID violations
+- [ ] [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+- [ ] [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
+ - [ ] [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
+- [ ] [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
+- [ ] [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
+- [ ] Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
+- [ ] find SOLID violations
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 1: Clean Code
-  - Chapter 2: Meaningful Names
-  - Chapter 3: Functions
-  - Chapter 6: Objects and Data Structures
-  - Chapter 7: Error Handling
-  - Chapter 10: Classes
+- [ ] Chapter 1: Clean Code
+- [ ] Chapter 2: Meaningful Names
+- [ ] Chapter 3: Functions
+- [ ] Chapter 6: Objects and Data Structures
+- [ ] Chapter 7: Error Handling
+- [ ] Chapter 10: Classes
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-  - Chapter 2: A Pragmatic Approach
-  - Chapter 5: Bend or Break
-  - Chapter 6: While You Are Coding
-- [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
-- [YAGNI](https://martinfowler.com/bliki/Yagni.html)
+- [ ] Chapter 2: A Pragmatic Approach
+- [ ] Chapter 5: Bend or Break
+- [ ] Chapter 6: While You Are Coding
+- [ ] [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
+- [ ] [YAGNI](https://martinfowler.com/bliki/Yagni.html)
 
 ## Session 2: Test-Driven Development
 
@@ -178,7 +178,7 @@ You are free to replace Erlang with whatever programming language you want to di
 
 ## Session 10: Further topics
 
-- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+- [ ] [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Patterns for Test-Driven Development
 - Simple Design
   - [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
