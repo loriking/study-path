@@ -2,15 +2,14 @@
 
 ## Getting Started
 
-- [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))
-- [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
-- [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
-- [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
+- [ ] [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))
+- [ ] [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+- [ ] [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
+- [ ] [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 ## Session 1: SOLID and Clean Code
-
-- [x ] [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
-- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+- [x] [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+- [ ] [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [ ] [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
 - [ ] [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
  - [ ] [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
@@ -19,83 +18,81 @@
 - [ ] Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
 - [ ] find SOLID violations
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [ ] Chapter 1: Clean Code
-- [ ] Chapter 2: Meaningful Names
-- [ ] Chapter 3: Functions
-- [ ] Chapter 6: Objects and Data Structures
-- [ ] Chapter 7: Error Handling
-- [ ] Chapter 10: Classes
+  - [ ] Chapter 1: Clean Code
+  - [ ] Chapter 2: Meaningful Names
+  - [ ] Chapter 3: Functions
+  - [ ] Chapter 6: Objects and Data Structures
+  - [ ] Chapter 7: Error Handling
+  - [ ] Chapter 10: Classes
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-- [ ] Chapter 2: A Pragmatic Approach
-- [ ] Chapter 5: Bend or Break
-- [ ] Chapter 6: While You Are Coding
+  - [ ] Chapter 2: A Pragmatic Approach
+  - [ ] Chapter 5: Bend or Break
+  - [ ] Chapter 6: While You Are Coding
 - [ ] [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
 - [ ] [YAGNI](https://martinfowler.com/bliki/Yagni.html)
 
 ## Session 2: Test-Driven Development
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
-  - Study the `Part I: The Money Example` and try to practically follow the same exercise with a programming language at your choice.
+  - [ ] Study the `Part I: The Money Example` and try to practically follow the same exercise with a programming language at your choice.
 - [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
-  - Chapter 1: What is the point of Test-Driven Development?
-  - Chapter 2: Test-Driven Development with Objects
-  - Chapter 4: Kick-Starting the Test-Driven Cycle
-  - Chapter 5: Maintaining the Test-Driven Cycle
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 9: Unit Tests
-- [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+  - [ ] Chapter 1: What is the point of Test-Driven Development?
+  - [ ] Chapter 2: Test-Driven Development with Objects
+  - [ ] Chapter 4: Kick-Starting the Test-Driven Cycle
+  - [ ] Chapter 5: Maintaining the Test-Driven Cycle
+- [ ] [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) __Chapter 9: Unit Tests__
+- [ ] [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
-  - Part 1: Foundations
-  - Part 2: Catalog
+  - [ ] Part 1: Foundations
+  - [ ] Part 2: Catalog
 
 ## Session 3: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
-  - Chapter 1: Changing Software
-  - Chapter 2: Working with Feedback
-  - Chapter 4: The Seam Model
-  - Chapter 8: How Do I Add a Feature ?
-  - Chapter 25: Dependency-Breaking Techniques
+  - [ ] Chapter 1: Changing Software
+  - [ ] Chapter 2: Working with Feedback
+  - [ ] Chapter 4: The Seam Model
+  - [ ] Chapter 8: How Do I Add a Feature ?
+  - [ ] Chapter 25: Dependency-Breaking Techniques
 - Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
-  - Code Coverage
-  - Add the new feature
-  - Do not try Code Refactoring
-- [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
+  - [ ] Code Coverage
+  - [ ] Add the new feature
+  - [ ] Do not try Code Refactoring
+- [ ] [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
 ## Session 4: Refactoring
-
-- [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
-- [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
-  - Chapter 1: Refactoring, a First Example
-    - [Example Code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
-  - Chapter 2: Principles in Refactoring
-  - Chapter 3: Bad Smells in Code
-- [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
+- [ ] [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
+- [ ] [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+  - [ ] Chapter 1: Refactoring, a First Example
+  - [ ] Review [Example Code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
+  - [ ] Chapter 2: Principles in Refactoring
+  - [ ] Chapter 3: Bad Smells in Code
+  - [ ] [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
   - [Example Code](https://github.com/sandromancuso/trip-service-kata)
-- Try the [GildedRoseKata](https://github.com/joebew42/GildedRose)
-  - Code Coverage
-  - Code Refactoring
-  - Add the new feature
-- Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
+- __Kata:__ [GildedRoseKata](https://github.com/joebew42/GildedRose)
+  - [ ] Code Coverage
+  - [ ] Code Refactoring
+  - [ ] Add the new feature
+- __Kata:__ [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) 
+  - [ ] Find code smells
 
 ## Session 5: TDD and "Friends"
 
-- [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
-- [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
-- Try to learn and repeat these Katas autonomously
-  - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
-- [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+- [ ] [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+- [ ] [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
+- Katas: Try to learn and repeat these Katas autonomously
+  - [ ] [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [ ] [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+- [ ] [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
-  - Chapter 6: Object-Oriented Style
-  - Chapter 7: Achieving Object-Oriented Design
-  - Chapter 8: Building on Third-Party Code
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 8: Boundaries
-- [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
-- [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
-- Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
-  - With [interactions](http://osherove.com/tdd-kata-2/)
+  - [ ] Chapter 6: Object-Oriented Style
+  - [ ] Chapter 7: Achieving Object-Oriented Design
+  - [ ] Chapter 8: Building on Third-Party Code
+- [ ]  [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) __Chapter 8: Boundaries__
+- [ ] [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
+- [ ] [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+- [ ] Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+  - [ ] With [interactions](http://osherove.com/tdd-kata-2/)
 
 ## Session 6: Hands On Erlang
 
