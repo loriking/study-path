@@ -2,15 +2,15 @@
 
 ## Getting Started
 
-- [ ] [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))
+- [x] [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))
 - [ ] [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - [ ] [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
 - [ ] [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 ## Session 1: SOLID and Clean Code
 - [x] [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
-- [ ] [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-- [ ] [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+- [x] [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+- [x] [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
 - [ ] [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
  - [ ] [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
 - [ ] [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
